@@ -4,8 +4,8 @@
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,sass,svg,js,ts,react,redux,vite,vitest)
+![Tech stack](https://skillicons.dev/icons?i=html,css,sass,svg,js,ts,react,redux,nextjs,vite,vitest)
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=windows,neovim,vim,vscode,idea,anaconda,git,github,postman,figma,bash,gulp)
+![Tools I use](https://skillicons.dev/icons?i=linux,neovim,vim,vscode,idea,anaconda,git,github,postman,figma,bash,obsidian)
